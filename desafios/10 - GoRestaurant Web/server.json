@@ -1,0 +1,39 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "Ao molho",
+      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas.",
+      "price": "19.90",
+      "available": true,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "avaliable": true
+    },
+    {
+      "id": 2,
+      "name": "Veggie",
+      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
+      "price": "21.90",
+      "available": true,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "avaliable": true
+    },
+    {
+      "id": 3,
+      "name": "A la Camarón",
+      "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
+      "price": "25.90",
+      "available": true,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
+      "avaliable": true
+    },
+    {
+      "image": "https://www.ocladapizza.com.br/wp-content/uploads/2016/12/3-fatos-sobre-a-pizza-portuguesa-que-voce-nao-fazia-ideia-artigo-blog-pizzaria-o-cla-da-pizza.jpg",
+      "name": "Moda Peroa",
+      "price": "50.23",
+      "description": "Completa",
+      "id": 4,
+      "available": true
+    }
+  ]
+}
